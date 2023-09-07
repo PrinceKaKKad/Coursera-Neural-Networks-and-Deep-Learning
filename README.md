@@ -4,13 +4,15 @@ Welcome to the repository for **Neural Networks and Deep Learning**. This reposi
 
 ## Contents
 
-- [Week 1](#week-1)
-  - [PDF](week-1/)
+- [Week 1](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/tree/main/Week%201)
+  - [Quiz](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/blob/main/Week%201/Neural%20Networks%20and%20Deep%20Learning.pdf)
   
-- [Week 2](#week-2)
-  - [Materials](week-2/)
-    - [Folder](week-2/)
-    - [PDF](week-2/)
+- [Week 2](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/tree/main/Week%202)
+  - [Practice Programming Assignment Python Basics with Numpy](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/tree/main/Week%202/Practice%20Programming%20Assignment%20Python%20Basics%20with%20Numpy)
+    - [Python_Basics_with_Numpy.html](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/blob/main/Week%202/Practice%20Programming%20Assignment%20Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.html)
+    - [Python_Basics_with_Numpy.ipynb](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/blob/main/Week%202/Practice%20Programming%20Assignment%20Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.ipynb)
+    - [Python_Basics_with_Numpy.py](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/blob/main/Week%202/Practice%20Programming%20Assignment%20Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.py)
+  - [Quiz](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/blob/main/Week%202/Week%202.pdf)
   
 - [Week 3](#week-3)
   - [Materials](week-3/)
