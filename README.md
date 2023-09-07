@@ -53,5 +53,5 @@ Happy learning!
 
 # My Certificate 
 <a href="https://princekakkad.tech/images/Coursera%20KMS3WB54LRPA.jpg">
-  ![Neural Networks](Coursera%20KMS3WB54LRPA.jpg)
+    <img src="https://princekakkad.tech/images/Coursera%20KMS3WB54LRPA.jpg" alt="Image Description">
 </a>
