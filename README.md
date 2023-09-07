@@ -52,6 +52,6 @@ Happy learning!
 
 
 # My Certificate 
-<a href="https://princekakkad.tech/images/Coursera%20KMS3WB54LRPA.jpg">
-    <img src="https://www.coursera.org/account/accomplishments/verify/KMS3WB54LRPA" alt="Image Description">
+<a href="https://www.coursera.org/account/accomplishments/verify/KMS3WB54LRPA">
+    <img src="https://princekakkad.tech/images/Coursera%20KMS3WB54LRPA.jpg" alt="Image Description">
 </a>
