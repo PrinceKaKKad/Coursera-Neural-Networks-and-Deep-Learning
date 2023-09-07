@@ -4,7 +4,7 @@ This repository contains materials for the **Neural Networks and Deep Learning**
 
 ## Table of Contents
 
-- [Week 1]([#week-1](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/tree/main/Week%201))
+- [Week 1](https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning/tree/main/Week%201)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
