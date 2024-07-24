@@ -46,12 +46,12 @@ For multiple-choice and single-choice questions, only the correct answers are pr
    git clone https://github.com/PrinceKaKKad/Coursera-Neural-Networks-and-Deep-Learning.git
    ```
 2. Explore the materials organized by week to enhance your understanding of neural networks and deep learning.
-3. If you have any questions or need clarification, feel free to open an issue or reach out via email at [info@princekakkad.tech](info@princekakkad.tech).
+3. If you have any questions or need clarification, feel free to open an issue or reach out via email at [info@codeestro.com](info@codeestro.com).
 
 Happy learning!
 
 
 # My Certificate 
 <a href="https://www.coursera.org/account/accomplishments/verify/KMS3WB54LRPA">
-    <img src="https://princekakkad.tech/images/Coursera%20KMS3WB54LRPA.jpg" alt="Image Description">
+    <img src="https://codeestro.com/assets/images/KMS3WB54LRPA.jpeg" alt="Image Description">
 </a>
